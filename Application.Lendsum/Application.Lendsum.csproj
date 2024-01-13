@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Mappers\**" />
+    <EmbeddedResource Remove="Mappers\**" />
+    <None Remove="Mappers\**" />
+  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Domain.Lendsum\Domain.Lendsum.csproj" />
+		<ProjectReference Include="..\Infrastructure.Lendsum\Infrastructure.Lendsum.csproj" />
+		<ProjectReference Include="..\Utilities.Lendsum\Utilities.Lendsum.csproj" />
+	</ItemGroup>
+
+</Project>

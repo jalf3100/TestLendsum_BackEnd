@@ -1,0 +1,17 @@
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Infrastructure.Lendsum.deps.json
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Infrastructure.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Infrastructure.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Domain.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Utilities.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Domain.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\bin\Debug\net6.0\Utilities.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.csproj.AssemblyReference.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.AssemblyInfoInputs.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.AssemblyInfo.cs
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.csproj.CoreCompileInputs.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.csproj.CopyComplete
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\refint\Infrastructure.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\Infrastructure.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Infrastructure.Lendsum\obj\Debug\net6.0\ref\Infrastructure.Lendsum.dll

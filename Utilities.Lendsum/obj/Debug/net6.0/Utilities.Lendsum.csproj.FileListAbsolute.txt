@@ -1,0 +1,14 @@
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\bin\Debug\net6.0\Utilities.Lendsum.deps.json
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\bin\Debug\net6.0\Utilities.Lendsum.runtimeconfig.json
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\bin\Debug\net6.0\Utilities.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\bin\Debug\net6.0\Utilities.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.csproj.AssemblyReference.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.AssemblyInfoInputs.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.AssemblyInfo.cs
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.csproj.CoreCompileInputs.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\refint\Utilities.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\Utilities.Lendsum.genruntimeconfig.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Utilities.Lendsum\obj\Debug\net6.0\ref\Utilities.Lendsum.dll

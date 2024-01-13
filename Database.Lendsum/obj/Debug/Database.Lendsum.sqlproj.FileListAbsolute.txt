@@ -1,0 +1,10 @@
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\bin\Debug\Database.Lendsum.dacpac
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\bin\Debug\Database.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\bin\Debug\Database.Lendsum.pdb
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\Database.Lendsum.sqlproj.AssemblyReference.cache
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\Model.xml
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\refactor.xml
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\postdeploy.sql
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\predeploy.sql
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\Database.Lendsum.dll
+C:\JALF\Desarrollo\Pruebas\Lendsum\Lendsum\Database.Lendsum\obj\Debug\Database.Lendsum.pdb
